@@ -1,5 +1,5 @@
 ### 광주_3반_김혜빈, GitHub : https://github.com/jjy0602/elice_git.git
-
+블로그 주소 : https://cocobino.github.io/pagodot/
 ---
 ### 1. 스펙(Specification)
 
